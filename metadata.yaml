@@ -1,0 +1,36 @@
+_repo: Le-grand-voyage-du-pays-des-Hurons_23828
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sagard, Gabriel
+    aliases:
+    - Sagard-Théodat, Gabriel
+    - Sagard-Theodat, Gabriel
+    gutenberg_agent_id: '26061'
+    url: http://www.gutenberg.org/2009/agents/26061
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Gabriel_Sagard
+    - http://fr.wikipedia.org/wiki/Gabriel_Sagard
+description: ''
+gutenberg_bookshelf:
+- FR Voyages et pays
+- FR Peuples et Sociétés
+gutenberg_issued: '2007-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23828'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New France -- Discovery and exploration'
+- !lcsh 'America -- Discovery and exploration -- French'
+- !lcsh 'Wyandot Indians'
+- !lcsh 'Indians of North America -- Canada'
+- !lcc 'F1001'
+title: Le grand voyage du pays des Hurons
+url: http://www.gutenberg.org/ebooks/23828
